@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArunKumar196
+- 👋 Hi, I’m Arun Kumar
 - 👀 I’m interested in Object oriented programming
 - 🌱 I’m currently pursuing BE Computer Science and focusing on java programming
 - 📫 How to reach me email - arun1962001@gmail.com
